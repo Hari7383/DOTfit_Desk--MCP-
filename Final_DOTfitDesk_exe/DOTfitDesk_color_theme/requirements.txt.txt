@@ -1,6 +1,0 @@
-flask
-sympy
-pandas
-bs4
-qrcode
-deep-translator
