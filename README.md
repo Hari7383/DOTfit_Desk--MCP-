@@ -122,6 +122,3 @@ If you build something cool on top of this:
 - Create an issue
 - Submit a friendly pull request
 - Add your demo link in the README
-
-
-MIT License — see LICENSE file.
